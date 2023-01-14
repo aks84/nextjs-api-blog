@@ -105,3 +105,11 @@ a {
     color-scheme: dark;
   }
 }
+
+
+.customer_card{
+  width: 50%;
+  padding: 20px;
+  margin: 0 auto;
+}
+
